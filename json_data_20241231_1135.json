@@ -1,0 +1,3560 @@
+{
+    "DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "1946.93000506000000000000",
+                    "sol_balance": "1946.93000506000000000000",
+                    "trx_balance": "1946.93000506000000000000",
+                    "balance": "1946.93000506000000000000",
+                    "total_value": 4891079.741976029,
+                    "unrealized_profit": 9304.943743564365,
+                    "unrealized_pnl": 0.0009065176239626678,
+                    "realized_profit": 893315.808144126,
+                    "pnl": 2.033706513435327,
+                    "pnl_7d": 2.033706513435327,
+                    "pnl_30d": 2.7381380813464755,
+                    "realized_profit_7d": 303205.374896114,
+                    "realized_profit_30d": 893315.808144126,
+                    "winrate": 0.9032258064516129,
+                    "all_pnl": 1.574243737967644,
+                    "total_profit": 8136123.240077649,
+                    "total_profit_pnl": 0.8100315565640651,
+                    "buy_30d": 98,
+                    "sell_30d": 226,
+                    "buy_7d": 44,
+                    "sell_7d": 87,
+                    "buy": 44,
+                    "sell": 87,
+                    "history_bought_cost": 643954.3083000001,
+                    "token_avg_cost": 13701.155495744684,
+                    "token_sold_avg_profit": 6451.178189279021,
+                    "token_num": 47,
+                    "profit_num": 28,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 11,
+                    "pnl_lt_2x_num": 22,
+                    "pnl_2x_5x_num": 7,
+                    "pnl_gt_5x_num": 7,
+                    "last_active_timestamp": 1735608681,
+                    "tags": [
+                        "trojan",
+                        "bluechip_owner"
+                    ],
+                    "tag_rank": {
+                        "bluechip_owner": 72,
+                        "trojan": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735608681,
+                    "refresh_requested_at": null,
+                    "address": "DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm"
+                },
+                "title": "DNfuF...BHm 30D Realized Profit $893.3K(2.03X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "DNfuF...BHm 30D Realized Profit $893.3K(2.03X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "DNfuF...BHm 30D Realized Profit $893.3K(2.03X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/39.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/39.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/39.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "DNfuF1L62WWyW3pNakVkyGGFzVVhj4Yr52jSmdTyeBHm"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "DrvR5Xn84VJ2HABTP3SnFi3V4W7EpZS6djoJC7HATeTg": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "0.42672372100000000000",
+                    "sol_balance": "0.42672372100000000000",
+                    "trx_balance": "0.42672372100000000000",
+                    "balance": "0.42672372100000000000",
+                    "total_value": 201797.35850352168,
+                    "unrealized_profit": -460229.74264145514,
+                    "unrealized_pnl": -0.2445992605780307,
+                    "realized_profit": 73090.24282608183,
+                    "pnl": 4.969085579064874,
+                    "pnl_7d": 4.969085579064874,
+                    "pnl_30d": 0.14965671791400695,
+                    "realized_profit_7d": 102078.65921296271,
+                    "realized_profit_30d": 73090.24282608183,
+                    "winrate": 0.5,
+                    "all_pnl": 0.12172595898346998,
+                    "total_profit": -325856.1599044285,
+                    "total_profit_pnl": -0.18452387280920773,
+                    "buy_30d": 96,
+                    "sell_30d": 67,
+                    "buy_7d": 25,
+                    "sell_7d": 11,
+                    "buy": 25,
+                    "sell": 11,
+                    "history_bought_cost": 95465.969,
+                    "token_avg_cost": 19093.1938,
+                    "token_sold_avg_profit": 20415.73184259254,
+                    "token_num": 5,
+                    "profit_num": 1,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 1,
+                    "pnl_lt_2x_num": 3,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 1,
+                    "last_active_timestamp": 1735401194,
+                    "tags": [],
+                    "tag_rank": {},
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735401194,
+                    "refresh_requested_at": null,
+                    "address": "DrvR5Xn84VJ2HABTP3SnFi3V4W7EpZS6djoJC7HATeTg"
+                },
+                "title": "DrvR5...eTg 30D Realized Profit $73.1K(4.97X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "DrvR5...eTg 30D Realized Profit $73.1K(4.97X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "DrvR5...eTg 30D Realized Profit $73.1K(4.97X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/35.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/35.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/35.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "DrvR5Xn84VJ2HABTP3SnFi3V4W7EpZS6djoJC7HATeTg"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "HUpPyLU8KWisCAr3mzWy2FKT6uuxQ2qGgJQxyTpDoes5": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": true,
+                    "twitter_fans_num": 116703,
+                    "twitter_username": "0xSunNFT",
+                    "twitter_name": "0xSun",
+                    "ens": null,
+                    "avatar": "https://pbs.twimg.com/profile_images/1820705442735296512/ej9BX01I.png",
+                    "name": "0xSun",
+                    "eth_balance": "1403.43362328000000000000",
+                    "sol_balance": "1403.43362328000000000000",
+                    "trx_balance": "1403.43362328000000000000",
+                    "balance": "1403.43362328000000000000",
+                    "total_value": 918572.9645736734,
+                    "unrealized_profit": -974985.0888900069,
+                    "unrealized_pnl": -0.11144013935087804,
+                    "realized_profit": 733021.1086835752,
+                    "pnl": 0.3527283409295019,
+                    "pnl_7d": 0.3527283409295019,
+                    "pnl_30d": 0.5106783229342738,
+                    "realized_profit_7d": 236611.2815516791,
+                    "realized_profit_30d": 733021.1086835752,
+                    "winrate": 0.6388888888888888,
+                    "all_pnl": 0.4584763557261875,
+                    "total_profit": 2178787.7653659224,
+                    "total_profit_pnl": 0.24836932841310094,
+                    "buy_30d": 292,
+                    "sell_30d": 484,
+                    "buy_7d": 68,
+                    "sell_7d": 229,
+                    "buy": 68,
+                    "sell": 229,
+                    "history_bought_cost": 1496678.8157320255,
+                    "token_avg_cost": 34015.427630273305,
+                    "token_sold_avg_profit": 5377.529126174525,
+                    "token_num": 44,
+                    "profit_num": 23,
+                    "pnl_lt_minus_dot5_num": 13,
+                    "pnl_minus_dot5_0x_num": 2,
+                    "pnl_lt_2x_num": 25,
+                    "pnl_2x_5x_num": 4,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735604625,
+                    "tags": [
+                        "kol",
+                        "photon",
+                        "bluechip_owner"
+                    ],
+                    "tag_rank": {
+                        "kol": 372,
+                        "photon": null,
+                        "bluechip_owner": null
+                    },
+                    "followers_count": 116703,
+                    "is_contract": false,
+                    "updated_at": 1735604625,
+                    "refresh_requested_at": null,
+                    "address": "HUpPyLU8KWisCAr3mzWy2FKT6uuxQ2qGgJQxyTpDoes5"
+                },
+                "title": "0xSun 30D Realized Profit $733K(0.35X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "0xSun 30D Realized Profit $733K(0.35X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "0xSun 30D Realized Profit $733K(0.35X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://pbs.twimg.com/profile_images/1820705442735296512/ej9BX01I.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://pbs.twimg.com/profile_images/1820705442735296512/ej9BX01I.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://pbs.twimg.com/profile_images/1820705442735296512/ej9BX01I.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "HUpPyLU8KWisCAr3mzWy2FKT6uuxQ2qGgJQxyTpDoes5"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "CLegS2MSiCsBksVazCg4Y7Gz3NqeBK21QyvzK4Q7S168": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "313.38646708800000000000",
+                    "sol_balance": "313.38646708800000000000",
+                    "trx_balance": "313.38646708800000000000",
+                    "balance": "313.38646708800000000000",
+                    "total_value": 1491571.1827363102,
+                    "unrealized_profit": 426046.7398582025,
+                    "unrealized_pnl": 0.05541608863243987,
+                    "realized_profit": -18044.398237127858,
+                    "pnl": -0.43977368434288994,
+                    "pnl_7d": -0.43977368434288994,
+                    "pnl_30d": -0.01099884193921454,
+                    "realized_profit_7d": -133919.97233537026,
+                    "realized_profit_30d": -18044.398237127858,
+                    "winrate": 0.2,
+                    "all_pnl": 0.09674370229780423,
+                    "total_profit": 1076220.1456195712,
+                    "total_profit_pnl": 0.13822325622002005,
+                    "buy_30d": 478,
+                    "sell_30d": 190,
+                    "buy_7d": 66,
+                    "sell_7d": 28,
+                    "buy": 66,
+                    "sell": 28,
+                    "history_bought_cost": 459439.16079600004,
+                    "token_avg_cost": 27025.832988000002,
+                    "token_sold_avg_profit": -7877.6454314923685,
+                    "token_num": 17,
+                    "profit_num": 3,
+                    "pnl_lt_minus_dot5_num": 10,
+                    "pnl_minus_dot5_0x_num": 4,
+                    "pnl_lt_2x_num": 2,
+                    "pnl_2x_5x_num": 1,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735521337,
+                    "tags": [
+                        "photon"
+                    ],
+                    "tag_rank": {
+                        "photon": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735521337,
+                    "refresh_requested_at": null,
+                    "address": "CLegS2MSiCsBksVazCg4Y7Gz3NqeBK21QyvzK4Q7S168"
+                },
+                "title": "CLegS...168 30D Realized Profit -$18K(-0.44X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "CLegS...168 30D Realized Profit -$18K(-0.44X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "CLegS...168 30D Realized Profit -$18K(-0.44X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/186.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/186.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/186.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "CLegS2MSiCsBksVazCg4Y7Gz3NqeBK21QyvzK4Q7S168"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "GyhmtpsSS5YftjkRkFuqqAvV5hu1vR9EDfWnBMxcXihT": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "49.69486391600000000000",
+                    "sol_balance": "49.69486391600000000000",
+                    "trx_balance": "49.69486391600000000000",
+                    "balance": "49.69486391600000000000",
+                    "total_value": 203652.55633921904,
+                    "unrealized_profit": 97782.19576626852,
+                    "unrealized_pnl": 0.012854971684281232,
+                    "realized_profit": -204594.2286806188,
+                    "pnl": -0.21610031974810595,
+                    "pnl_7d": -0.21610031974810595,
+                    "pnl_30d": -0.12686680384687843,
+                    "realized_profit_7d": -145537.20325152043,
+                    "realized_profit_30d": -204594.2286806188,
+                    "winrate": 0,
+                    "all_pnl": -0.04307655376156989,
+                    "total_profit": -199663.41811540938,
+                    "total_profit_pnl": -0.02847893006368317,
+                    "buy_30d": 339,
+                    "sell_30d": 360,
+                    "buy_7d": 150,
+                    "sell_7d": 155,
+                    "buy": 150,
+                    "sell": 155,
+                    "history_bought_cost": 38407.3959,
+                    "token_avg_cost": 4800.9244875,
+                    "token_sold_avg_profit": -16170.800361280048,
+                    "token_num": 9,
+                    "profit_num": 0,
+                    "pnl_lt_minus_dot5_num": 2,
+                    "pnl_minus_dot5_0x_num": 1,
+                    "pnl_lt_2x_num": 6,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735527089,
+                    "tags": [],
+                    "tag_rank": {},
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735527089,
+                    "refresh_requested_at": null,
+                    "address": "GyhmtpsSS5YftjkRkFuqqAvV5hu1vR9EDfWnBMxcXihT"
+                },
+                "title": "Gyhmt...ihT 30D Realized Profit -$204.6K(-0.22X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "Gyhmt...ihT 30D Realized Profit -$204.6K(-0.22X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "Gyhmt...ihT 30D Realized Profit -$204.6K(-0.22X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/30.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/30.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/30.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "GyhmtpsSS5YftjkRkFuqqAvV5hu1vR9EDfWnBMxcXihT"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "G1pRtSyKuWSjTqRDcazzKBDzqEF96i1xSURpiXj3yFcc": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": true,
+                    "twitter_fans_num": 30694,
+                    "twitter_username": "CryptoDevinL",
+                    "twitter_name": "CryptoD | 1000X GEM",
+                    "ens": null,
+                    "avatar": "https://pbs.twimg.com/profile_images/1865314120993771524/Pln6jtx-_400x400.jpg",
+                    "name": "CryptoD | 1000X GEM",
+                    "eth_balance": "82.97262592200000000000",
+                    "sol_balance": "82.97262592200000000000",
+                    "trx_balance": "82.97262592200000000000",
+                    "balance": "82.97262592200000000000",
+                    "total_value": 1154915.9069241954,
+                    "unrealized_profit": 726002.3557598913,
+                    "unrealized_pnl": 0.08520298061890863,
+                    "realized_profit": 499548.9404841537,
+                    "pnl": 0.24605390233961028,
+                    "pnl_7d": 0.24605390233961028,
+                    "pnl_30d": 0.26404459039214556,
+                    "realized_profit_7d": 174696.00046520992,
+                    "realized_profit_30d": 499548.9404841537,
+                    "winrate": 0.5,
+                    "all_pnl": 0.25376098865511604,
+                    "total_profit": 2619831.192300824,
+                    "total_profit_pnl": 0.3319622468281213,
+                    "buy_30d": 379,
+                    "sell_30d": 616,
+                    "buy_7d": 92,
+                    "sell_7d": 128,
+                    "buy": 92,
+                    "sell": 128,
+                    "history_bought_cost": 1304458.283345934,
+                    "token_avg_cost": 25577.613398939884,
+                    "token_sold_avg_profit": 3425.4117738276454,
+                    "token_num": 51,
+                    "profit_num": 21,
+                    "pnl_lt_minus_dot5_num": 11,
+                    "pnl_minus_dot5_0x_num": 18,
+                    "pnl_lt_2x_num": 19,
+                    "pnl_2x_5x_num": 2,
+                    "pnl_gt_5x_num": 1,
+                    "last_active_timestamp": 1735611836,
+                    "tags": [
+                        "kol",
+                        "gmgn",
+                        "pepeboost"
+                    ],
+                    "tag_rank": {
+                        "kol": 25,
+                        "gmgn": null,
+                        "pepeboost": null
+                    },
+                    "followers_count": 30694,
+                    "is_contract": false,
+                    "updated_at": 1735611836,
+                    "refresh_requested_at": null,
+                    "address": "G1pRtSyKuWSjTqRDcazzKBDzqEF96i1xSURpiXj3yFcc"
+                },
+                "title": "CryptoD | 1000X G... 30D Realized Profit $499.5K(0.25X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "CryptoD | 1000X G... 30D Realized Profit $499.5K(0.25X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "CryptoD | 1000X G... 30D Realized Profit $499.5K(0.25X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://pbs.twimg.com/profile_images/1865314120993771524/Pln6jtx-_400x400.jpg"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://pbs.twimg.com/profile_images/1865314120993771524/Pln6jtx-_400x400.jpg"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://pbs.twimg.com/profile_images/1865314120993771524/Pln6jtx-_400x400.jpg"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "G1pRtSyKuWSjTqRDcazzKBDzqEF96i1xSURpiXj3yFcc"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "AVAZvHLR2PcWpDf8BXY4rVxNHYRBytycHkcB5z5QNXYm": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "1.50693210100000000000",
+                    "sol_balance": "1.50693210100000000000",
+                    "trx_balance": "1.50693210100000000000",
+                    "balance": "1.50693210100000000000",
+                    "total_value": 13478078.136595067,
+                    "unrealized_profit": 10509731.290200718,
+                    "unrealized_pnl": 0.2744041484973577,
+                    "realized_profit": 479239.1824280137,
+                    "pnl": -0.040509913168534334,
+                    "pnl_7d": -0.040509913168534334,
+                    "pnl_30d": 0.03429126595771846,
+                    "realized_profit_7d": -130028.99131018517,
+                    "realized_profit_30d": 479239.1824280137,
+                    "winrate": 0.4,
+                    "all_pnl": 0.024151440940629453,
+                    "total_profit": 11329712.430820938,
+                    "total_profit_pnl": 0.3068720216713011,
+                    "buy_30d": 898,
+                    "sell_30d": 964,
+                    "buy_7d": 159,
+                    "sell_7d": 189,
+                    "buy": 159,
+                    "sell": 189,
+                    "history_bought_cost": 8851252.372296173,
+                    "token_avg_cost": 180637.80351624844,
+                    "token_sold_avg_profit": -2653.65288388133,
+                    "token_num": 49,
+                    "profit_num": 16,
+                    "pnl_lt_minus_dot5_num": 6,
+                    "pnl_minus_dot5_0x_num": 23,
+                    "pnl_lt_2x_num": 19,
+                    "pnl_2x_5x_num": 1,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735613417,
+                    "tags": [
+                        "bluechip_owner"
+                    ],
+                    "tag_rank": {
+                        "bluechip_owner": 338
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735613417,
+                    "refresh_requested_at": null,
+                    "address": "AVAZvHLR2PcWpDf8BXY4rVxNHYRBytycHkcB5z5QNXYm"
+                },
+                "title": "AVAZv...XYm 30D Realized Profit $479.2K(-0.04X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "AVAZv...XYm 30D Realized Profit $479.2K(-0.04X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "AVAZv...XYm 30D Realized Profit $479.2K(-0.04X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/185.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/185.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/185.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "AVAZvHLR2PcWpDf8BXY4rVxNHYRBytycHkcB5z5QNXYm"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "45yBcpnzFTqLYQJtjxsa1DdZkgrTYponCg6yLQ6LQPu6": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "206.28166378500000000000",
+                    "sol_balance": "206.28166378500000000000",
+                    "trx_balance": "206.28166378500000000000",
+                    "balance": "206.28166378500000000000",
+                    "total_value": 388160.8421329745,
+                    "unrealized_profit": -95826.42954229936,
+                    "unrealized_pnl": -0.013263220877120936,
+                    "realized_profit": 164931.83647767582,
+                    "pnl": 0.05729842834744947,
+                    "pnl_7d": 0.05729842834744947,
+                    "pnl_30d": 0.1749731326790609,
+                    "realized_profit_7d": 10758.048499297067,
+                    "realized_profit_30d": 164931.83647767582,
+                    "winrate": 0.41379310344827586,
+                    "all_pnl": 0.28453741200412735,
+                    "total_profit": 1819573.6207937356,
+                    "total_profit_pnl": 0.25217164666717107,
+                    "buy_30d": 290,
+                    "sell_30d": 355,
+                    "buy_7d": 48,
+                    "sell_7d": 56,
+                    "buy": 48,
+                    "sell": 56,
+                    "history_bought_cost": 234820.64324447018,
+                    "token_avg_cost": 5460.945191731865,
+                    "token_sold_avg_profit": 250.18717440225737,
+                    "token_num": 43,
+                    "profit_num": 12,
+                    "pnl_lt_minus_dot5_num": 13,
+                    "pnl_minus_dot5_0x_num": 9,
+                    "pnl_lt_2x_num": 17,
+                    "pnl_2x_5x_num": 2,
+                    "pnl_gt_5x_num": 2,
+                    "last_active_timestamp": 1735598435,
+                    "tags": [
+                        "pump_smart",
+                        "photon"
+                    ],
+                    "tag_rank": {
+                        "pump_smart": 33,
+                        "photon": null
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735598435,
+                    "refresh_requested_at": null,
+                    "address": "45yBcpnzFTqLYQJtjxsa1DdZkgrTYponCg6yLQ6LQPu6"
+                },
+                "title": "45yBc...Pu6 30D Realized Profit $164.9K(0.06X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "45yBc...Pu6 30D Realized Profit $164.9K(0.06X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "45yBc...Pu6 30D Realized Profit $164.9K(0.06X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/122.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/122.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/122.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "45yBcpnzFTqLYQJtjxsa1DdZkgrTYponCg6yLQ6LQPu6"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "52dq6ajenMwfVz5FYuPKKRzzjkW83Aa85X5xJgFHX7U1": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "162.30736497200000000000",
+                    "sol_balance": "162.30736497200000000000",
+                    "trx_balance": "162.30736497200000000000",
+                    "balance": "162.30736497200000000000",
+                    "total_value": 162631.1516708232,
+                    "unrealized_profit": -232174.18312002617,
+                    "unrealized_pnl": -0.14632315664469825,
+                    "realized_profit": 58697.22811816043,
+                    "pnl": 0.032935565566053704,
+                    "pnl_7d": 0.032935565566053704,
+                    "pnl_30d": 0.8756155558769971,
+                    "realized_profit_7d": 363.71587731367,
+                    "realized_profit_30d": 58697.22811816043,
+                    "winrate": 0.8333333333333334,
+                    "all_pnl": 1.1052023316757504,
+                    "total_profit": 1045331.4685627854,
+                    "total_profit_pnl": 0.674099750995728,
+                    "buy_30d": 61,
+                    "sell_30d": 45,
+                    "buy_7d": 19,
+                    "sell_7d": 9,
+                    "buy": 19,
+                    "sell": 9,
+                    "history_bought_cost": 23838.57886294657,
+                    "token_avg_cost": 1702.7556330676123,
+                    "token_sold_avg_profit": 25.979705522405,
+                    "token_num": 14,
+                    "profit_num": 5,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 1,
+                    "pnl_lt_2x_num": 13,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735599241,
+                    "tags": [
+                        "smart_degen"
+                    ],
+                    "tag_rank": {
+                        "smart_degen": 30
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735599241,
+                    "refresh_requested_at": null,
+                    "address": "52dq6ajenMwfVz5FYuPKKRzzjkW83Aa85X5xJgFHX7U1"
+                },
+                "title": "52dq6...7U1 30D Realized Profit $58.7K(0.03X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "52dq6...7U1 30D Realized Profit $58.7K(0.03X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "52dq6...7U1 30D Realized Profit $58.7K(0.03X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/23.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/23.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/23.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "52dq6ajenMwfVz5FYuPKKRzzjkW83Aa85X5xJgFHX7U1"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "4J5rDTvRbzjuKkB4B9rvNEvDz6f1BEBzUVT5mdctKHoT": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "6.37256136300000000000",
+                    "sol_balance": "6.37256136300000000000",
+                    "trx_balance": "6.37256136300000000000",
+                    "balance": "6.37256136300000000000",
+                    "total_value": 3065783.0789264026,
+                    "unrealized_profit": 2614458.6068807193,
+                    "unrealized_pnl": 4.126398097775826,
+                    "realized_profit": 0,
+                    "pnl": 0,
+                    "pnl_7d": 0,
+                    "pnl_30d": 0,
+                    "realized_profit_7d": 0,
+                    "realized_profit_30d": 0,
+                    "winrate": null,
+                    "all_pnl": 2.0922397791557312,
+                    "total_profit": 2839795.8286339794,
+                    "total_profit_pnl": 5.15149457503247,
+                    "buy_30d": 0,
+                    "sell_30d": 0,
+                    "buy_7d": 0,
+                    "sell_7d": 0,
+                    "buy": 0,
+                    "sell": 0,
+                    "history_bought_cost": 0,
+                    "token_avg_cost": 0,
+                    "token_sold_avg_profit": 0,
+                    "token_num": 0,
+                    "profit_num": 0,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 0,
+                    "pnl_lt_2x_num": 0,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1731446180,
+                    "tags": [],
+                    "tag_rank": {},
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735560026,
+                    "refresh_requested_at": null,
+                    "address": "4J5rDTvRbzjuKkB4B9rvNEvDz6f1BEBzUVT5mdctKHoT"
+                },
+                "title": "4J5rD...HoT 30D Realized Profit $0(--)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "4J5rD...HoT 30D Realized Profit $0(--)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "4J5rD...HoT 30D Realized Profit $0(--)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/9.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/9.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/9.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "4J5rDTvRbzjuKkB4B9rvNEvDz6f1BEBzUVT5mdctKHoT"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "CK15zgbG3SSbCFtfnn5TFKswzBxSTWSvaDNoVBgbKYu": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": true,
+                    "twitter_fans_num": 2693,
+                    "twitter_username": "3W5fec",
+                    "twitter_name": "威猛先生",
+                    "ens": null,
+                    "avatar": "https://pbs.twimg.com/profile_images/1860875620298969088/-hxEphJP_400x400.jpg",
+                    "name": "威猛先生",
+                    "eth_balance": "70.06637658500000000000",
+                    "sol_balance": "70.06637658500000000000",
+                    "trx_balance": "70.06637658500000000000",
+                    "balance": "70.06637658500000000000",
+                    "total_value": 18819.031102273962,
+                    "unrealized_profit": 17009.910177347203,
+                    "unrealized_pnl": 0.004457437499883448,
+                    "realized_profit": -123.16506490834855,
+                    "pnl": 0.191894862276737,
+                    "pnl_7d": 0.191894862276737,
+                    "pnl_30d": -0.00043682014474395525,
+                    "realized_profit_7d": 9485.26937237705,
+                    "realized_profit_30d": -123.16506490834855,
+                    "winrate": 0.7142857142857143,
+                    "all_pnl": 0.12111862212463356,
+                    "total_profit": 440530.32853565866,
+                    "total_profit_pnl": 0.1259179797700261,
+                    "buy_30d": 151,
+                    "sell_30d": 137,
+                    "buy_7d": 52,
+                    "sell_7d": 58,
+                    "buy": 52,
+                    "sell": 58,
+                    "history_bought_cost": 66603.80275969324,
+                    "token_avg_cost": 3027.445579986056,
+                    "token_sold_avg_profit": 431.14860783532043,
+                    "token_num": 22,
+                    "profit_num": 15,
+                    "pnl_lt_minus_dot5_num": 1,
+                    "pnl_minus_dot5_0x_num": 6,
+                    "pnl_lt_2x_num": 15,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735534594,
+                    "tags": [],
+                    "tag_rank": {},
+                    "followers_count": 2693,
+                    "is_contract": false,
+                    "updated_at": 1735534594,
+                    "refresh_requested_at": null,
+                    "address": "CK15zgbG3SSbCFtfnn5TFKswzBxSTWSvaDNoVBgbKYu"
+                },
+                "title": "威猛先生 30D Realized Profit -$123.17(0.19X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "威猛先生 30D Realized Profit -$123.17(0.19X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "威猛先生 30D Realized Profit -$123.17(0.19X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://pbs.twimg.com/profile_images/1860875620298969088/-hxEphJP_400x400.jpg"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://pbs.twimg.com/profile_images/1860875620298969088/-hxEphJP_400x400.jpg"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://pbs.twimg.com/profile_images/1860875620298969088/-hxEphJP_400x400.jpg"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "CK15zgbG3SSbCFtfnn5TFKswzBxSTWSvaDNoVBgbKYu"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "Ay9wnuZCRTceZJuRpGZnuwYZuWdsviM4cMiCwFoSQiPH": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": true,
+                    "twitter_fans_num": 12811,
+                    "twitter_username": "hexiecs",
+                    "twitter_name": "冷静冷静再冷静",
+                    "ens": null,
+                    "avatar": "https://pbs.twimg.com/profile_images/1808852270513278978/U5U08gDs_400x400.jpg",
+                    "name": "冷静冷静再冷静",
+                    "eth_balance": "385.10451767800000000000",
+                    "sol_balance": "385.10451767800000000000",
+                    "trx_balance": "385.10451767800000000000",
+                    "balance": "385.10451767800000000000",
+                    "total_value": 337610.03338970704,
+                    "unrealized_profit": -314402.91962220543,
+                    "unrealized_pnl": -0.0186200643354519,
+                    "realized_profit": 541940.9036263492,
+                    "pnl": 0.31688106823480006,
+                    "pnl_7d": 0.31688106823480006,
+                    "pnl_30d": 0.1468075074729103,
+                    "realized_profit_7d": 415070.7386454599,
+                    "realized_profit_30d": 541940.9036263492,
+                    "winrate": 0.5375,
+                    "all_pnl": 0.16577830903168922,
+                    "total_profit": 2209411.7386910496,
+                    "total_profit_pnl": 0.13916636221384826,
+                    "buy_30d": 541,
+                    "sell_30d": 931,
+                    "buy_7d": 175,
+                    "sell_7d": 232,
+                    "buy": 175,
+                    "sell": 232,
+                    "history_bought_cost": 1688387.1897867047,
+                    "token_avg_cost": 19186.218065758007,
+                    "token_sold_avg_profit": 4716.712939152953,
+                    "token_num": 88,
+                    "profit_num": 43,
+                    "pnl_lt_minus_dot5_num": 7,
+                    "pnl_minus_dot5_0x_num": 32,
+                    "pnl_lt_2x_num": 45,
+                    "pnl_2x_5x_num": 4,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735613556,
+                    "tags": [
+                        "trojan",
+                        "gmgn"
+                    ],
+                    "tag_rank": {
+                        "trojan": 1,
+                        "gmgn": null
+                    },
+                    "followers_count": 12811,
+                    "is_contract": false,
+                    "updated_at": 1735613556,
+                    "refresh_requested_at": null,
+                    "address": "Ay9wnuZCRTceZJuRpGZnuwYZuWdsviM4cMiCwFoSQiPH"
+                },
+                "title": "冷静冷静再冷静 30D Realized Profit $541.9K(0.32X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "冷静冷静再冷静 30D Realized Profit $541.9K(0.32X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "冷静冷静再冷静 30D Realized Profit $541.9K(0.32X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://pbs.twimg.com/profile_images/1808852270513278978/U5U08gDs_400x400.jpg"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://pbs.twimg.com/profile_images/1808852270513278978/U5U08gDs_400x400.jpg"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://pbs.twimg.com/profile_images/1808852270513278978/U5U08gDs_400x400.jpg"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "Ay9wnuZCRTceZJuRpGZnuwYZuWdsviM4cMiCwFoSQiPH"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "Gf9XgdmvNHt8fUTFsWAccNbKeyDXsgJyZN8iFJKg5Pbd": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 41260,
+                    "twitter_username": "Unipioneer",
+                    "twitter_name": "0xuezhang|985.eth",
+                    "ens": null,
+                    "avatar": "https://pbs.twimg.com/profile_images/1701007591583916032/VxdX5iTX.png",
+                    "name": "0xuezhang|985.eth",
+                    "eth_balance": "917.95986447000000000000",
+                    "sol_balance": "917.95986447000000000000",
+                    "trx_balance": "917.95986447000000000000",
+                    "balance": "917.95986447000000000000",
+                    "total_value": 439875.2779295646,
+                    "unrealized_profit": -338905.3150101651,
+                    "unrealized_pnl": -0.09078669817386496,
+                    "realized_profit": 233562.7413238483,
+                    "pnl": 0.2892931937176347,
+                    "pnl_7d": 0.2892931937176347,
+                    "pnl_30d": 0.513087958714517,
+                    "realized_profit_7d": 41424.14812341031,
+                    "realized_profit_30d": 233562.7413238483,
+                    "winrate": 0.6515151515151515,
+                    "all_pnl": 0.45634912151601,
+                    "total_profit": 956972.9085667734,
+                    "total_profit_pnl": 0.2644707840567117,
+                    "buy_30d": 526,
+                    "sell_30d": 514,
+                    "buy_7d": 142,
+                    "sell_7d": 133,
+                    "buy": 142,
+                    "sell": 133,
+                    "history_bought_cost": 324700.992067983,
+                    "token_avg_cost": 3865.488000809322,
+                    "token_sold_avg_profit": 493.1446205167894,
+                    "token_num": 84,
+                    "profit_num": 43,
+                    "pnl_lt_minus_dot5_num": 7,
+                    "pnl_minus_dot5_0x_num": 25,
+                    "pnl_lt_2x_num": 51,
+                    "pnl_2x_5x_num": 1,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735615961,
+                    "tags": [
+                        "kol"
+                    ],
+                    "tag_rank": {
+                        "kol": 375
+                    },
+                    "followers_count": 41260,
+                    "is_contract": false,
+                    "updated_at": 1735615961,
+                    "refresh_requested_at": null,
+                    "address": "Gf9XgdmvNHt8fUTFsWAccNbKeyDXsgJyZN8iFJKg5Pbd"
+                },
+                "title": "0xuezhang|985.eth... 30D Realized Profit $233.6K(0.29X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "0xuezhang|985.eth... 30D Realized Profit $233.6K(0.29X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "0xuezhang|985.eth... 30D Realized Profit $233.6K(0.29X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://pbs.twimg.com/profile_images/1701007591583916032/VxdX5iTX.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://pbs.twimg.com/profile_images/1701007591583916032/VxdX5iTX.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://pbs.twimg.com/profile_images/1701007591583916032/VxdX5iTX.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "Gf9XgdmvNHt8fUTFsWAccNbKeyDXsgJyZN8iFJKg5Pbd"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "5HScLdzxqPNyMiua4fqsQW49RNP772z7dNGXQbB4XAnD": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "1.83854597200000000000",
+                    "sol_balance": "1.83854597200000000000",
+                    "trx_balance": "1.83854597200000000000",
+                    "balance": "1.83854597200000000000",
+                    "total_value": 1723.4316027673126,
+                    "unrealized_profit": -25564.03238317965,
+                    "unrealized_pnl": -0.00554916052137518,
+                    "realized_profit": -63060.99746893522,
+                    "pnl": -0.12911547269260532,
+                    "pnl_7d": -0.12911547269260532,
+                    "pnl_30d": -0.06896699912001024,
+                    "realized_profit_7d": -8976.530817718227,
+                    "realized_profit_30d": -63060.99746893522,
+                    "winrate": null,
+                    "all_pnl": 0.023616316713619186,
+                    "total_profit": 82357.45161570353,
+                    "total_profit_pnl": 0.017917068530455372,
+                    "buy_30d": 172,
+                    "sell_30d": 149,
+                    "buy_7d": 7,
+                    "sell_7d": 6,
+                    "buy": 7,
+                    "sell": 6,
+                    "history_bought_cost": null,
+                    "token_avg_cost": null,
+                    "token_sold_avg_profit": null,
+                    "token_num": null,
+                    "profit_num": null,
+                    "pnl_lt_minus_dot5_num": null,
+                    "pnl_minus_dot5_0x_num": null,
+                    "pnl_lt_2x_num": null,
+                    "pnl_2x_5x_num": null,
+                    "pnl_gt_5x_num": null,
+                    "last_active_timestamp": 1734423353,
+                    "tags": [
+                        "photon"
+                    ],
+                    "tag_rank": {
+                        "photon": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1734895631,
+                    "refresh_requested_at": null,
+                    "address": "5HScLdzxqPNyMiua4fqsQW49RNP772z7dNGXQbB4XAnD"
+                },
+                "title": "5HScL...AnD 30D Realized Profit -$63.1K(-0.13X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "5HScL...AnD 30D Realized Profit -$63.1K(-0.13X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "5HScL...AnD 30D Realized Profit -$63.1K(-0.13X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/123.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/123.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/123.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "5HScLdzxqPNyMiua4fqsQW49RNP772z7dNGXQbB4XAnD"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "FB17KCgFjwtEWduJAykvRcJnM5nYZvpHfWWg135V18KR": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "110.03852188200000000000",
+                    "sol_balance": "110.03852188200000000000",
+                    "trx_balance": "110.03852188200000000000",
+                    "balance": "110.03852188200000000000",
+                    "total_value": 20740.389869362134,
+                    "unrealized_profit": 20740.38653719591,
+                    "unrealized_pnl": 0.016823210862079004,
+                    "realized_profit": 65099.21853884782,
+                    "pnl": -0.034073668153598455,
+                    "pnl_7d": -0.034073668153598455,
+                    "pnl_30d": 0.2291409175321725,
+                    "realized_profit_7d": -758.964823651,
+                    "realized_profit_30d": 65099.21853884782,
+                    "winrate": 0.7058823529411765,
+                    "all_pnl": 0.39267677670838486,
+                    "total_profit": 497266.44917624537,
+                    "total_profit_pnl": 0.4097676952785066,
+                    "buy_30d": 225,
+                    "sell_30d": 243,
+                    "buy_7d": 18,
+                    "sell_7d": 20,
+                    "buy": 18,
+                    "sell": 20,
+                    "history_bought_cost": 29938.83760097048,
+                    "token_avg_cost": 1761.108094174734,
+                    "token_sold_avg_profit": -44.64498962652941,
+                    "token_num": 17,
+                    "profit_num": 12,
+                    "pnl_lt_minus_dot5_num": 2,
+                    "pnl_minus_dot5_0x_num": 2,
+                    "pnl_lt_2x_num": 12,
+                    "pnl_2x_5x_num": 1,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735584867,
+                    "tags": [
+                        "trojan",
+                        "gmgn"
+                    ],
+                    "tag_rank": {
+                        "trojan": 1,
+                        "gmgn": null
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735584867,
+                    "refresh_requested_at": null,
+                    "address": "FB17KCgFjwtEWduJAykvRcJnM5nYZvpHfWWg135V18KR"
+                },
+                "title": "FB17K...8KR 30D Realized Profit $65.1K(-0.03X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "FB17K...8KR 30D Realized Profit $65.1K(-0.03X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "FB17K...8KR 30D Realized Profit $65.1K(-0.03X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/161.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/161.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/161.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "FB17KCgFjwtEWduJAykvRcJnM5nYZvpHfWWg135V18KR"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "8deJ9xeUvXSJwicYptA9mHsU2rN2pDx37KWzkDkEXhU6": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "530.69473606000000000000",
+                    "sol_balance": "530.69473606000000000000",
+                    "trx_balance": "530.69473606000000000000",
+                    "balance": "530.69473606000000000000",
+                    "total_value": 381574.62569207925,
+                    "unrealized_profit": -16564.171347772084,
+                    "unrealized_pnl": -0.0007144875578644223,
+                    "realized_profit": -166202.06855338564,
+                    "pnl": -0.014410967191534153,
+                    "pnl_7d": -0.014410967191534153,
+                    "pnl_30d": -0.03772120328819419,
+                    "realized_profit_7d": -17693.66861561154,
+                    "realized_profit_30d": -166202.06855338564,
+                    "winrate": 0.8343434343434344,
+                    "all_pnl": 0.07120051909474744,
+                    "total_profit": 1469222.7664643636,
+                    "total_profit_pnl": 0.06908858815076309,
+                    "buy_30d": 2583,
+                    "sell_30d": 1963,
+                    "buy_7d": 1113,
+                    "sell_7d": 735,
+                    "buy": 1113,
+                    "sell": 735,
+                    "history_bought_cost": 2256869.593162051,
+                    "token_avg_cost": 4513.739186324102,
+                    "token_sold_avg_profit": -35.38733723122308,
+                    "token_num": 500,
+                    "profit_num": 413,
+                    "pnl_lt_minus_dot5_num": 40,
+                    "pnl_minus_dot5_0x_num": 43,
+                    "pnl_lt_2x_num": 410,
+                    "pnl_2x_5x_num": 5,
+                    "pnl_gt_5x_num": 2,
+                    "last_active_timestamp": 1735611427,
+                    "tags": [
+                        "photon",
+                        "bluechip_owner"
+                    ],
+                    "tag_rank": {
+                        "bluechip_owner": 570,
+                        "photon": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735611427,
+                    "refresh_requested_at": null,
+                    "address": "8deJ9xeUvXSJwicYptA9mHsU2rN2pDx37KWzkDkEXhU6"
+                },
+                "title": "8deJ9...hU6 30D Realized Profit -$166.2K(-0.01X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "8deJ9...hU6 30D Realized Profit -$166.2K(-0.01X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "8deJ9...hU6 30D Realized Profit -$166.2K(-0.01X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/9.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/9.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/9.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "8deJ9xeUvXSJwicYptA9mHsU2rN2pDx37KWzkDkEXhU6"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "GpNbukV5nggkJfsEEbKrJaZkdgYcNWCAaD91Mi4MmGQi": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "2.71908386600000000000",
+                    "sol_balance": "2.71908386600000000000",
+                    "trx_balance": "2.71908386600000000000",
+                    "balance": "2.71908386600000000000",
+                    "total_value": 965248.0814782183,
+                    "unrealized_profit": 291730.5315884065,
+                    "unrealized_pnl": 0.02436466347584743,
+                    "realized_profit": -649594.0425352311,
+                    "pnl": -0.15623203531433202,
+                    "pnl_7d": -0.15623203531433202,
+                    "pnl_30d": -0.1607260356403159,
+                    "realized_profit_7d": -56177.524416542,
+                    "realized_profit_30d": -649594.0425352311,
+                    "winrate": 0.3333333333333333,
+                    "all_pnl": -0.021027785146481022,
+                    "total_profit": 77849.50532888348,
+                    "total_profit_pnl": 0.007178465757690642,
+                    "buy_30d": 245,
+                    "sell_30d": 251,
+                    "buy_7d": 35,
+                    "sell_7d": 42,
+                    "buy": 35,
+                    "sell": 42,
+                    "history_bought_cost": 1175823.3832318054,
+                    "token_avg_cost": 146977.92290397568,
+                    "token_sold_avg_profit": -7022.19055206775,
+                    "token_num": 8,
+                    "profit_num": 3,
+                    "pnl_lt_minus_dot5_num": 4,
+                    "pnl_minus_dot5_0x_num": 1,
+                    "pnl_lt_2x_num": 3,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735507262,
+                    "tags": [],
+                    "tag_rank": {},
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735507262,
+                    "refresh_requested_at": null,
+                    "address": "GpNbukV5nggkJfsEEbKrJaZkdgYcNWCAaD91Mi4MmGQi"
+                },
+                "title": "GpNbu...GQi 30D Realized Profit -$649.6K(-0.16X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "GpNbu...GQi 30D Realized Profit -$649.6K(-0.16X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "GpNbu...GQi 30D Realized Profit -$649.6K(-0.16X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/74.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/74.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/74.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "GpNbukV5nggkJfsEEbKrJaZkdgYcNWCAaD91Mi4MmGQi"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "71CPXu3TvH3iUKaY1bNkAAow24k6tjH473SsKprQBABC": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 21039,
+                    "twitter_username": "brc20niubi",
+                    "twitter_name": "发誓要做💎手的王小二",
+                    "ens": null,
+                    "avatar": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_400x400.jpg",
+                    "name": "发誓要做💎手的王小二",
+                    "eth_balance": "3230.37918309900000000000",
+                    "sol_balance": "3230.37918309900000000000",
+                    "trx_balance": "3230.37918309900000000000",
+                    "balance": "3230.37918309900000000000",
+                    "total_value": 3967216.869954007,
+                    "unrealized_profit": -1857807.7368023526,
+                    "unrealized_pnl": -0.0541980441458084,
+                    "realized_profit": 1419004.384208514,
+                    "pnl": 0.7649919544474898,
+                    "pnl_7d": 0.7649919544474898,
+                    "pnl_30d": 0.5442477961426263,
+                    "realized_profit_7d": 303260.65420341905,
+                    "realized_profit_30d": 1419004.384208514,
+                    "winrate": 0.6153846153846154,
+                    "all_pnl": 0.43025911079194146,
+                    "total_profit": 8543770.421435434,
+                    "total_profit_pnl": 0.2847906983208118,
+                    "buy_30d": 473,
+                    "sell_30d": 398,
+                    "buy_7d": 99,
+                    "sell_7d": 58,
+                    "buy": 99,
+                    "sell": 58,
+                    "history_bought_cost": 2005697.7433027572,
+                    "token_avg_cost": 52781.51956059887,
+                    "token_sold_avg_profit": 7980.543531668923,
+                    "token_num": 38,
+                    "profit_num": 8,
+                    "pnl_lt_minus_dot5_num": 4,
+                    "pnl_minus_dot5_0x_num": 14,
+                    "pnl_lt_2x_num": 16,
+                    "pnl_2x_5x_num": 2,
+                    "pnl_gt_5x_num": 2,
+                    "last_active_timestamp": 1735600768,
+                    "tags": [
+                        "kol",
+                        "photon",
+                        "bluechip_owner"
+                    ],
+                    "tag_rank": {
+                        "kol": 371,
+                        "photon": null,
+                        "bluechip_owner": null
+                    },
+                    "followers_count": 21039,
+                    "is_contract": false,
+                    "updated_at": 1735600768,
+                    "refresh_requested_at": null,
+                    "address": "71CPXu3TvH3iUKaY1bNkAAow24k6tjH473SsKprQBABC"
+                },
+                "title": "发誓要做💎手的王小二 30D Realized Profit $1.4M(0.76X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "发誓要做💎手的王小二 30D Realized Profit $1.4M(0.76X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "发誓要做💎手的王小二 30D Realized Profit $1.4M(0.76X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_400x400.jpg"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_400x400.jpg"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_400x400.jpg"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "71CPXu3TvH3iUKaY1bNkAAow24k6tjH473SsKprQBABC"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "HkdH3WPY3v6guxboVMX4teZUBoRBm3iVb1N3Q7AEVmjd": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "90.28030304500000000000",
+                    "sol_balance": "90.28030304500000000000",
+                    "trx_balance": "90.28030304500000000000",
+                    "balance": "90.28030304500000000000",
+                    "total_value": 59524.66071576761,
+                    "unrealized_profit": -274636.8033373257,
+                    "unrealized_pnl": -0.18643232641484422,
+                    "realized_profit": 80048.53965571702,
+                    "pnl": -0.08936826925419368,
+                    "pnl_7d": -0.08936826925419368,
+                    "pnl_30d": 0.2978645192489483,
+                    "realized_profit_7d": -1373.1408470324034,
+                    "realized_profit_30d": 80048.53965571702,
+                    "winrate": 0.2777777777777778,
+                    "all_pnl": 0.36515184778379434,
+                    "total_profit": 77113.02399008744,
+                    "total_profit_pnl": 0.059433887147695735,
+                    "buy_30d": 428,
+                    "sell_30d": 447,
+                    "buy_7d": 18,
+                    "sell_7d": 27,
+                    "buy": 18,
+                    "sell": 27,
+                    "history_bought_cost": 32005.172277261616,
+                    "token_avg_cost": 1391.5292294461572,
+                    "token_sold_avg_profit": -59.70177595793058,
+                    "token_num": 23,
+                    "profit_num": 5,
+                    "pnl_lt_minus_dot5_num": 2,
+                    "pnl_minus_dot5_0x_num": 7,
+                    "pnl_lt_2x_num": 11,
+                    "pnl_2x_5x_num": 2,
+                    "pnl_gt_5x_num": 1,
+                    "last_active_timestamp": 1735584081,
+                    "tags": [
+                        "trojan"
+                    ],
+                    "tag_rank": {
+                        "trojan": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735584081,
+                    "refresh_requested_at": null,
+                    "address": "HkdH3WPY3v6guxboVMX4teZUBoRBm3iVb1N3Q7AEVmjd"
+                },
+                "title": "HkdH3...mjd 30D Realized Profit $80K(-0.09X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "HkdH3...mjd 30D Realized Profit $80K(-0.09X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "HkdH3...mjd 30D Realized Profit $80K(-0.09X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/157.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/157.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/157.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "HkdH3WPY3v6guxboVMX4teZUBoRBm3iVb1N3Q7AEVmjd"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "3jgub3P9KP3XA9Dwh7XpKu35BiQNTZZXbPmfBAJMsroL": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "1453.39538839100000000000",
+                    "sol_balance": "1453.39538839100000000000",
+                    "trx_balance": "1453.39538839100000000000",
+                    "balance": "1453.39538839100000000000",
+                    "total_value": 2149212.0695974478,
+                    "unrealized_profit": 1957530.89522623,
+                    "unrealized_pnl": 0.17036343487167838,
+                    "realized_profit": 1493923.6037373,
+                    "pnl": 0.5653398491022269,
+                    "pnl_7d": 0.5653398491022269,
+                    "pnl_30d": 0.3226138636665702,
+                    "realized_profit_7d": 624151.5846009862,
+                    "realized_profit_30d": 1493923.6037373,
+                    "winrate": 0.109375,
+                    "all_pnl": -0.03356034160832262,
+                    "total_profit": 1582293.1743721382,
+                    "total_profit_pnl": 0.1391312261036366,
+                    "buy_30d": 1801,
+                    "sell_30d": 1236,
+                    "buy_7d": 297,
+                    "sell_7d": 204,
+                    "buy": 297,
+                    "sell": 204,
+                    "history_bought_cost": 938411.8516410077,
+                    "token_avg_cost": 6702.941797435769,
+                    "token_sold_avg_profit": 4458.225604292758,
+                    "token_num": 140,
+                    "profit_num": 14,
+                    "pnl_lt_minus_dot5_num": 95,
+                    "pnl_minus_dot5_0x_num": 26,
+                    "pnl_lt_2x_num": 12,
+                    "pnl_2x_5x_num": 1,
+                    "pnl_gt_5x_num": 6,
+                    "last_active_timestamp": 1735616619,
+                    "tags": [
+                        "photon"
+                    ],
+                    "tag_rank": {
+                        "photon": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735616619,
+                    "refresh_requested_at": null,
+                    "address": "3jgub3P9KP3XA9Dwh7XpKu35BiQNTZZXbPmfBAJMsroL"
+                },
+                "title": "3jgub...roL 30D Realized Profit $1.5M(0.57X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "3jgub...roL 30D Realized Profit $1.5M(0.57X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "3jgub...roL 30D Realized Profit $1.5M(0.57X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/163.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/163.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/163.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "3jgub3P9KP3XA9Dwh7XpKu35BiQNTZZXbPmfBAJMsroL"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "CMDarQhUrahd9f3UNEaC5yfBi5ha8gsLEwP9aHZQeDLG": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "6.24755912100000000000",
+                    "sol_balance": "6.24755912100000000000",
+                    "trx_balance": "6.24755912100000000000",
+                    "balance": "6.24755912100000000000",
+                    "total_value": 171345.0940038823,
+                    "unrealized_profit": -663180.7468661512,
+                    "unrealized_pnl": -0.3107501488669824,
+                    "realized_profit": -6367.878360795563,
+                    "pnl": 0,
+                    "pnl_7d": 0,
+                    "pnl_30d": -0.23178812376693833,
+                    "realized_profit_7d": 0,
+                    "realized_profit_30d": -6367.878360795563,
+                    "winrate": null,
+                    "all_pnl": 2.836357274484008,
+                    "total_profit": 3198072.0820903345,
+                    "total_profit_pnl": 1.4714184170869133,
+                    "buy_30d": 0,
+                    "sell_30d": 3,
+                    "buy_7d": 0,
+                    "sell_7d": 0,
+                    "buy": 0,
+                    "sell": 0,
+                    "history_bought_cost": 0,
+                    "token_avg_cost": null,
+                    "token_sold_avg_profit": null,
+                    "token_num": 0,
+                    "profit_num": 0,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 0,
+                    "pnl_lt_2x_num": 0,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1733347917,
+                    "tags": [
+                        "bluechip_owner"
+                    ],
+                    "tag_rank": {
+                        "bluechip_owner": 36
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735231360,
+                    "refresh_requested_at": null,
+                    "address": "CMDarQhUrahd9f3UNEaC5yfBi5ha8gsLEwP9aHZQeDLG"
+                },
+                "title": "CMDar...DLG 30D Realized Profit -$6,367.88(--)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "CMDar...DLG 30D Realized Profit -$6,367.88(--)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "CMDar...DLG 30D Realized Profit -$6,367.88(--)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/155.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/155.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/155.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "CMDarQhUrahd9f3UNEaC5yfBi5ha8gsLEwP9aHZQeDLG"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "2JrTudNHthFHtgHBoJdx9xKgGRAYrir7AUw7shvdW5uR": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "1.19746111800000000000",
+                    "sol_balance": "1.19746111800000000000",
+                    "trx_balance": "1.19746111800000000000",
+                    "balance": "1.19746111800000000000",
+                    "total_value": 235.90038664239447,
+                    "unrealized_profit": -5.68942632678517e-06,
+                    "unrealized_pnl": -3.7423576252193433e-13,
+                    "realized_profit": -119651.5470947208,
+                    "pnl": 0,
+                    "pnl_7d": 0,
+                    "pnl_30d": -0.2512243307532862,
+                    "realized_profit_7d": 0,
+                    "realized_profit_30d": -119651.5470947208,
+                    "winrate": null,
+                    "all_pnl": 0.403978563820247,
+                    "total_profit": 5644322.237073065,
+                    "total_profit_pnl": 0.4039785638196753,
+                    "buy_30d": 22,
+                    "sell_30d": 54,
+                    "buy_7d": 0,
+                    "sell_7d": 0,
+                    "buy": 0,
+                    "sell": 0,
+                    "history_bought_cost": 0,
+                    "token_avg_cost": null,
+                    "token_sold_avg_profit": 0,
+                    "token_num": 0,
+                    "profit_num": 0,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 0,
+                    "pnl_lt_2x_num": 0,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1734441758,
+                    "tags": [],
+                    "tag_rank": {},
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735495339,
+                    "refresh_requested_at": null,
+                    "address": "2JrTudNHthFHtgHBoJdx9xKgGRAYrir7AUw7shvdW5uR"
+                },
+                "title": "2JrTu...5uR 30D Realized Profit -$119.7K(--)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "2JrTu...5uR 30D Realized Profit -$119.7K(--)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "2JrTu...5uR 30D Realized Profit -$119.7K(--)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/140.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/140.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/140.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "2JrTudNHthFHtgHBoJdx9xKgGRAYrir7AUw7shvdW5uR"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "414.27797029200000000000",
+                    "sol_balance": "414.27797029200000000000",
+                    "trx_balance": "414.27797029200000000000",
+                    "balance": "414.27797029200000000000",
+                    "total_value": 385408.3623408647,
+                    "unrealized_profit": -397712.6326339687,
+                    "unrealized_pnl": -0.023048611868991882,
+                    "realized_profit": 1375613.3033943684,
+                    "pnl": 0.048133009432503586,
+                    "pnl_7d": 0.048133009432503586,
+                    "pnl_30d": 0.8352370941621965,
+                    "realized_profit_7d": 11878.766839413027,
+                    "realized_profit_30d": 1375613.3033943684,
+                    "winrate": 0.75,
+                    "all_pnl": 0.33521621909214233,
+                    "total_profit": 3351306.0524623273,
+                    "total_profit_pnl": 0.2800455565360384,
+                    "buy_30d": 502,
+                    "sell_30d": 219,
+                    "buy_7d": 130,
+                    "sell_7d": 42,
+                    "buy": 130,
+                    "sell": 42,
+                    "history_bought_cost": 487627.82639999985,
+                    "token_avg_cost": 17415.27951428571,
+                    "token_sold_avg_profit": 424.24167283617953,
+                    "token_num": 28,
+                    "profit_num": 15,
+                    "pnl_lt_minus_dot5_num": 3,
+                    "pnl_minus_dot5_0x_num": 4,
+                    "pnl_lt_2x_num": 20,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 1,
+                    "last_active_timestamp": 1735614387,
+                    "tags": [
+                        "photon"
+                    ],
+                    "tag_rank": {
+                        "photon": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735614387,
+                    "refresh_requested_at": null,
+                    "address": "8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd"
+                },
+                "title": "8zFZH...7Zd 30D Realized Profit $1.4M(0.05X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "8zFZH...7Zd 30D Realized Profit $1.4M(0.05X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "8zFZH...7Zd 30D Realized Profit $1.4M(0.05X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/56.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/56.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/56.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "603.05226359600000000000",
+                    "sol_balance": "603.05226359600000000000",
+                    "trx_balance": "603.05226359600000000000",
+                    "balance": "603.05226359600000000000",
+                    "total_value": 882139.6982120149,
+                    "unrealized_profit": 368886.9007662347,
+                    "unrealized_pnl": 0.1453824304277314,
+                    "realized_profit": 348188.9338489256,
+                    "pnl": 0.647142007087165,
+                    "pnl_7d": 0.647142007087165,
+                    "pnl_30d": 0.6441852013767668,
+                    "realized_profit_7d": 108064.50113905736,
+                    "realized_profit_30d": 348188.9338489256,
+                    "winrate": 0.8160919540229885,
+                    "all_pnl": 0.6226182389975992,
+                    "total_profit": 1575181.0999160768,
+                    "total_profit_pnl": 0.6427456356579704,
+                    "buy_30d": 548,
+                    "sell_30d": 528,
+                    "buy_7d": 166,
+                    "sell_7d": 165,
+                    "buy": 166,
+                    "sell": 165,
+                    "history_bought_cost": 239524.49430897358,
+                    "token_avg_cost": 2138.6115563301214,
+                    "token_sold_avg_profit": 964.8616173130122,
+                    "token_num": 112,
+                    "profit_num": 71,
+                    "pnl_lt_minus_dot5_num": 3,
+                    "pnl_minus_dot5_0x_num": 31,
+                    "pnl_lt_2x_num": 66,
+                    "pnl_2x_5x_num": 6,
+                    "pnl_gt_5x_num": 6,
+                    "last_active_timestamp": 1735603050,
+                    "tags": [
+                        "pump_smart",
+                        "trojan",
+                        "bluechip_owner"
+                    ],
+                    "tag_rank": {
+                        "pump_smart": 3,
+                        "trojan": null,
+                        "bluechip_owner": null
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735603050,
+                    "refresh_requested_at": null,
+                    "address": "BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW"
+                },
+                "title": "BieeZ...TpW 30D Realized Profit $348.2K(0.65X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "BieeZ...TpW 30D Realized Profit $348.2K(0.65X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "BieeZ...TpW 30D Realized Profit $348.2K(0.65X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/52.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/52.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/52.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "BieeZkdnBAgNYknzo3RH2vku7FcPkFZMZmRJANh2TpW"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "4EsY8HQB4Ak65diFrSHjwWhKSGC8sKmnzyusM993gk2w": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "0.19003080600000000000",
+                    "sol_balance": "0.19003080600000000000",
+                    "trx_balance": "0.19003080600000000000",
+                    "balance": "0.19003080600000000000",
+                    "total_value": 23692.14131219125,
+                    "unrealized_profit": 13518.966312191249,
+                    "unrealized_pnl": 0.0013901226153505972,
+                    "realized_profit": 3465.6472317348603,
+                    "pnl": -0.02703275567673194,
+                    "pnl_7d": -0.02703275567673194,
+                    "pnl_30d": 0.002144491521398771,
+                    "realized_profit_7d": -12815.571782532126,
+                    "realized_profit_30d": 3465.6472317348603,
+                    "winrate": 0.3763440860215054,
+                    "all_pnl": 0.025374640454298523,
+                    "total_profit": 253997.37975693622,
+                    "total_profit_pnl": 0.026772386984147113,
+                    "buy_30d": 773,
+                    "sell_30d": 659,
+                    "buy_7d": 226,
+                    "sell_7d": 204,
+                    "buy": 226,
+                    "sell": 204,
+                    "history_bought_cost": 506175.9481643188,
+                    "token_avg_cost": 5442.752130799127,
+                    "token_sold_avg_profit": -137.80184712400137,
+                    "token_num": 93,
+                    "profit_num": 35,
+                    "pnl_lt_minus_dot5_num": 16,
+                    "pnl_minus_dot5_0x_num": 42,
+                    "pnl_lt_2x_num": 33,
+                    "pnl_2x_5x_num": 2,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735615337,
+                    "tags": [
+                        "smart_degen",
+                        "trojan"
+                    ],
+                    "tag_rank": {
+                        "smart_degen": 26,
+                        "trojan": null
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735615337,
+                    "refresh_requested_at": null,
+                    "address": "4EsY8HQB4Ak65diFrSHjwWhKSGC8sKmnzyusM993gk2w"
+                },
+                "title": "4EsY8...k2w 30D Realized Profit $3,465.65(-0.03X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "4EsY8...k2w 30D Realized Profit $3,465.65(-0.03X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "4EsY8...k2w 30D Realized Profit $3,465.65(-0.03X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/61.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/61.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/61.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "4EsY8HQB4Ak65diFrSHjwWhKSGC8sKmnzyusM993gk2w"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "FKy2QyHNz2H7K8c4pZnifdP3ogrG4JujwNEB5bTzFEL3": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "16.15099370200000000000",
+                    "sol_balance": "16.15099370200000000000",
+                    "trx_balance": "16.15099370200000000000",
+                    "balance": "16.15099370200000000000",
+                    "total_value": 45270.79150528331,
+                    "unrealized_profit": -215319.56657361216,
+                    "unrealized_pnl": -0.028610521735013366,
+                    "realized_profit": 385711.6000150172,
+                    "pnl": 7.824476347637227,
+                    "pnl_7d": 7.824476347637227,
+                    "pnl_30d": 0.6118121069206074,
+                    "realized_profit_7d": 397992.73573492985,
+                    "realized_profit_30d": 385711.6000150172,
+                    "winrate": 0.38461538461538464,
+                    "all_pnl": 0.43684210718349165,
+                    "total_profit": 1617741.8667728298,
+                    "total_profit_pnl": 0.36328456398962367,
+                    "buy_30d": 248,
+                    "sell_30d": 296,
+                    "buy_7d": 44,
+                    "sell_7d": 80,
+                    "buy": 44,
+                    "sell": 80,
+                    "history_bought_cost": 94523.03883654358,
+                    "token_avg_cost": 2148.250882648718,
+                    "token_sold_avg_profit": 9045.289448521133,
+                    "token_num": 44,
+                    "profit_num": 15,
+                    "pnl_lt_minus_dot5_num": 9,
+                    "pnl_minus_dot5_0x_num": 15,
+                    "pnl_lt_2x_num": 19,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 1,
+                    "last_active_timestamp": 1735441533,
+                    "tags": [
+                        "photon"
+                    ],
+                    "tag_rank": {
+                        "photon": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735599180,
+                    "refresh_requested_at": null,
+                    "address": "FKy2QyHNz2H7K8c4pZnifdP3ogrG4JujwNEB5bTzFEL3"
+                },
+                "title": "FKy2Q...EL3 30D Realized Profit $385.7K(7.82X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "FKy2Q...EL3 30D Realized Profit $385.7K(7.82X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "FKy2Q...EL3 30D Realized Profit $385.7K(7.82X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/79.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/79.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/79.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "FKy2QyHNz2H7K8c4pZnifdP3ogrG4JujwNEB5bTzFEL3"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "D37KwuoeLJJqVkD9EPaLD4zfwAZdp7WnH6BoJ5BPJ8rb": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "3945.18538789200000000000",
+                    "sol_balance": "3945.18538789200000000000",
+                    "trx_balance": "3945.18538789200000000000",
+                    "balance": "3945.18538789200000000000",
+                    "total_value": 1095590.6543640043,
+                    "unrealized_profit": -170221.38139678395,
+                    "unrealized_pnl": -0.09218215040833835,
+                    "realized_profit": 154647.88777408013,
+                    "pnl": 3.3775170900325433,
+                    "pnl_7d": 3.3775170900325433,
+                    "pnl_30d": 2.9178299532232463,
+                    "realized_profit_7d": 9085.004972013625,
+                    "realized_profit_30d": 154647.88777408013,
+                    "winrate": 1,
+                    "all_pnl": 3.9923076237525725,
+                    "total_profit": 2153083.662665506,
+                    "total_profit_pnl": 1.165241511022929,
+                    "buy_30d": 25,
+                    "sell_30d": 59,
+                    "buy_7d": 6,
+                    "sell_7d": 7,
+                    "buy": 6,
+                    "sell": 7,
+                    "history_bought_cost": 49571.3,
+                    "token_avg_cost": 7081.614285714286,
+                    "token_sold_avg_profit": 1297.8578531448036,
+                    "token_num": 7,
+                    "profit_num": 4,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 0,
+                    "pnl_lt_2x_num": 5,
+                    "pnl_2x_5x_num": 1,
+                    "pnl_gt_5x_num": 1,
+                    "last_active_timestamp": 1735615593,
+                    "tags": [
+                        "trojan"
+                    ],
+                    "tag_rank": {
+                        "trojan": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735615593,
+                    "refresh_requested_at": null,
+                    "address": "D37KwuoeLJJqVkD9EPaLD4zfwAZdp7WnH6BoJ5BPJ8rb"
+                },
+                "title": "D37Kw...8rb 30D Realized Profit $154.6K(3.38X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "D37Kw...8rb 30D Realized Profit $154.6K(3.38X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "D37Kw...8rb 30D Realized Profit $154.6K(3.38X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/115.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/115.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/115.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "D37KwuoeLJJqVkD9EPaLD4zfwAZdp7WnH6BoJ5BPJ8rb"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "2h7s3FpSvc6v2oHke6Uqg191B5fPCeFTmMGnh5oPWhX7": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "0.22999738900000000000",
+                    "sol_balance": "0.22999738900000000000",
+                    "trx_balance": "0.22999738900000000000",
+                    "balance": "0.22999738900000000000",
+                    "total_value": 673790.5785432124,
+                    "unrealized_profit": -395262.40662214527,
+                    "unrealized_pnl": -0.03306722170466974,
+                    "realized_profit": -893923.8159856828,
+                    "pnl": -0.5615218436051153,
+                    "pnl_7d": -0.5615218436051153,
+                    "pnl_30d": -0.38254782833552897,
+                    "realized_profit_7d": -173563.468125736,
+                    "realized_profit_30d": -893923.8159856828,
+                    "winrate": 0.07894736842105263,
+                    "all_pnl": -0.09671527952209956,
+                    "total_profit": -1338411.4004800355,
+                    "total_profit_pnl": -0.12368805043849389,
+                    "buy_30d": 594,
+                    "sell_30d": 487,
+                    "buy_7d": 105,
+                    "sell_7d": 86,
+                    "buy": 105,
+                    "sell": 86,
+                    "history_bought_cost": 1279462.2552350531,
+                    "token_avg_cost": 28432.49456077896,
+                    "token_sold_avg_profit": -3773.1188722986085,
+                    "token_num": 46,
+                    "profit_num": 3,
+                    "pnl_lt_minus_dot5_num": 23,
+                    "pnl_minus_dot5_0x_num": 14,
+                    "pnl_lt_2x_num": 7,
+                    "pnl_2x_5x_num": 2,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735613803,
+                    "tags": [
+                        "photon"
+                    ],
+                    "tag_rank": {
+                        "photon": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735613803,
+                    "refresh_requested_at": null,
+                    "address": "2h7s3FpSvc6v2oHke6Uqg191B5fPCeFTmMGnh5oPWhX7"
+                },
+                "title": "2h7s3...hX7 30D Realized Profit -$893.9K(-0.56X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "2h7s3...hX7 30D Realized Profit -$893.9K(-0.56X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "2h7s3...hX7 30D Realized Profit -$893.9K(-0.56X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/101.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/101.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/101.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "2h7s3FpSvc6v2oHke6Uqg191B5fPCeFTmMGnh5oPWhX7"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "6vdXD7uu4zBXMjWecqMPWGsy5H7dSQXSYJS4gNqGbvTt": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": "0xEdwin999",
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": "https://pbs.twimg.com/profile_images/1785785928461524992/BNJPyMHK_400x400.jpg",
+                    "name": "0xEdwin999",
+                    "eth_balance": "476.51155005100000000000",
+                    "sol_balance": "476.51155005100000000000",
+                    "trx_balance": "476.51155005100000000000",
+                    "balance": "476.51155005100000000000",
+                    "total_value": 466943.57001850475,
+                    "unrealized_profit": 437012.4089653087,
+                    "unrealized_pnl": 0.0802200495252875,
+                    "realized_profit": 297955.31396795064,
+                    "pnl": 0.08145920613437012,
+                    "pnl_7d": 0.08145920613437012,
+                    "pnl_30d": 0.37508488940369616,
+                    "realized_profit_7d": 9035.687508993004,
+                    "realized_profit_30d": 297955.31396795064,
+                    "winrate": 0.5,
+                    "all_pnl": 0.37618364363742457,
+                    "total_profit": 2403176.1470291903,
+                    "total_profit_pnl": 0.45717855951459296,
+                    "buy_30d": 305,
+                    "sell_30d": 447,
+                    "buy_7d": 48,
+                    "sell_7d": 56,
+                    "buy": 48,
+                    "sell": 56,
+                    "history_bought_cost": 174252.81689624046,
+                    "token_avg_cost": 3960.291293096374,
+                    "token_sold_avg_profit": 205.35653429529555,
+                    "token_num": 44,
+                    "profit_num": 21,
+                    "pnl_lt_minus_dot5_num": 8,
+                    "pnl_minus_dot5_0x_num": 14,
+                    "pnl_lt_2x_num": 19,
+                    "pnl_2x_5x_num": 2,
+                    "pnl_gt_5x_num": 1,
+                    "last_active_timestamp": 1735613791,
+                    "tags": [
+                        "bullx",
+                        "trojan"
+                    ],
+                    "tag_rank": {
+                        "bullx": null,
+                        "trojan": null
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735613791,
+                    "refresh_requested_at": null,
+                    "address": "6vdXD7uu4zBXMjWecqMPWGsy5H7dSQXSYJS4gNqGbvTt"
+                },
+                "title": "0xEdwin999 30D Realized Profit $298K(0.08X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "0xEdwin999 30D Realized Profit $298K(0.08X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "0xEdwin999 30D Realized Profit $298K(0.08X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://pbs.twimg.com/profile_images/1785785928461524992/BNJPyMHK_400x400.jpg"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://pbs.twimg.com/profile_images/1785785928461524992/BNJPyMHK_400x400.jpg"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://pbs.twimg.com/profile_images/1785785928461524992/BNJPyMHK_400x400.jpg"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "6vdXD7uu4zBXMjWecqMPWGsy5H7dSQXSYJS4gNqGbvTt"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "2EkhJvG7eunHrecNsAijNx8aGcv2Kjd3schd12Gb5tmp": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "0.73118425200000000000",
+                    "sol_balance": "0.73118425200000000000",
+                    "trx_balance": "0.73118425200000000000",
+                    "balance": "0.73118425200000000000",
+                    "total_value": 5858213.895917819,
+                    "unrealized_profit": 3654595.6415908244,
+                    "unrealized_pnl": 0.5647073284122266,
+                    "realized_profit": -746254.9934467013,
+                    "pnl": -0.5886836342585391,
+                    "pnl_7d": -0.5886836342585391,
+                    "pnl_30d": -0.26720338934566934,
+                    "realized_profit_7d": -873344.2396825574,
+                    "realized_profit_30d": -746254.9934467013,
+                    "winrate": 0.0379746835443038,
+                    "all_pnl": 0.16248369088645417,
+                    "total_profit": 4474983.943709964,
+                    "total_profit_pnl": 0.7285440612785313,
+                    "buy_30d": 160,
+                    "sell_30d": 186,
+                    "buy_7d": 72,
+                    "sell_7d": 98,
+                    "buy": 72,
+                    "sell": 98,
+                    "history_bought_cost": 2529467.283755396,
+                    "token_avg_cost": 34650.23676377255,
+                    "token_sold_avg_profit": -10155.165577704156,
+                    "token_num": 86,
+                    "profit_num": 3,
+                    "pnl_lt_minus_dot5_num": 59,
+                    "pnl_minus_dot5_0x_num": 5,
+                    "pnl_lt_2x_num": 20,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 2,
+                    "last_active_timestamp": 1735468079,
+                    "tags": [],
+                    "tag_rank": {},
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735559482,
+                    "refresh_requested_at": null,
+                    "address": "2EkhJvG7eunHrecNsAijNx8aGcv2Kjd3schd12Gb5tmp"
+                },
+                "title": "2EkhJ...tmp 30D Realized Profit -$746.3K(-0.59X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "2EkhJ...tmp 30D Realized Profit -$746.3K(-0.59X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "2EkhJ...tmp 30D Realized Profit -$746.3K(-0.59X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/49.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/49.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/49.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "2EkhJvG7eunHrecNsAijNx8aGcv2Kjd3schd12Gb5tmp"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "4q7rNU1nRUWY14vaLPpzpc2C756UQE36vaDwphBpLf2s": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "0.30881148900000000000",
+                    "sol_balance": "0.30881148900000000000",
+                    "trx_balance": "0.30881148900000000000",
+                    "balance": "0.30881148900000000000",
+                    "total_value": 6064.226715619223,
+                    "unrealized_profit": -119126.17270993497,
+                    "unrealized_pnl": -0.018294741222814354,
+                    "realized_profit": 10762.821316456748,
+                    "pnl": 0.31416265964046847,
+                    "pnl_7d": 0.31416265964046847,
+                    "pnl_30d": 0.019113783393963586,
+                    "realized_profit_7d": 16169.136692806806,
+                    "realized_profit_30d": 10762.821316456748,
+                    "winrate": 0.36363636363636365,
+                    "all_pnl": 0.03347876734311544,
+                    "total_profit": 89437.13384176505,
+                    "total_profit_pnl": 0.014075470166800394,
+                    "buy_30d": 917,
+                    "sell_30d": 672,
+                    "buy_7d": 85,
+                    "sell_7d": 71,
+                    "buy": 85,
+                    "sell": 71,
+                    "history_bought_cost": 0,
+                    "token_avg_cost": null,
+                    "token_sold_avg_profit": null,
+                    "token_num": 0,
+                    "profit_num": 12,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 0,
+                    "pnl_lt_2x_num": 0,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1734951832,
+                    "tags": [],
+                    "tag_rank": {},
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735231340,
+                    "refresh_requested_at": null,
+                    "address": "4q7rNU1nRUWY14vaLPpzpc2C756UQE36vaDwphBpLf2s"
+                },
+                "title": "4q7rN...f2s 30D Realized Profit $10.8K(0.31X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "4q7rN...f2s 30D Realized Profit $10.8K(0.31X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "4q7rN...f2s 30D Realized Profit $10.8K(0.31X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/155.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/155.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/155.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "4q7rNU1nRUWY14vaLPpzpc2C756UQE36vaDwphBpLf2s"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "9iyAyxFsCo7iNobHb84FVN6YP3VRJMAJHSbQ6X9nQEfJ": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "1.08050033800000000000",
+                    "sol_balance": "1.08050033800000000000",
+                    "trx_balance": "1.08050033800000000000",
+                    "balance": "1.08050033800000000000",
+                    "total_value": 129976.9736014244,
+                    "unrealized_profit": -120874.4663560053,
+                    "unrealized_pnl": -0.08873828307958309,
+                    "realized_profit": -17402.453387816342,
+                    "pnl": 0,
+                    "pnl_7d": 0,
+                    "pnl_30d": -0.44600029156021403,
+                    "realized_profit_7d": 0,
+                    "realized_profit_30d": -17402.453387816342,
+                    "winrate": null,
+                    "all_pnl": 0.515114001830607,
+                    "total_profit": 409941.7908680772,
+                    "total_profit_pnl": 0.32160657913223134,
+                    "buy_30d": 10,
+                    "sell_30d": 5,
+                    "buy_7d": 0,
+                    "sell_7d": 0,
+                    "buy": 0,
+                    "sell": 0,
+                    "history_bought_cost": 0,
+                    "token_avg_cost": null,
+                    "token_sold_avg_profit": null,
+                    "token_num": 0,
+                    "profit_num": 0,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 0,
+                    "pnl_lt_2x_num": 0,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1734088523,
+                    "tags": [
+                        "photon"
+                    ],
+                    "tag_rank": {
+                        "photon": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735156276,
+                    "refresh_requested_at": null,
+                    "address": "9iyAyxFsCo7iNobHb84FVN6YP3VRJMAJHSbQ6X9nQEfJ"
+                },
+                "title": "9iyAy...EfJ 30D Realized Profit -$17.4K(--)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "9iyAy...EfJ 30D Realized Profit -$17.4K(--)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "9iyAy...EfJ 30D Realized Profit -$17.4K(--)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/149.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/149.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/149.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "9iyAyxFsCo7iNobHb84FVN6YP3VRJMAJHSbQ6X9nQEfJ"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "ABUqmjGYiZd4mFxVa2ZV4zZUUbB7a7U7EvoPkw4YHvC6": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "1955.32214922300000000000",
+                    "sol_balance": "1955.32214922300000000000",
+                    "trx_balance": "1955.32214922300000000000",
+                    "balance": "1955.32214922300000000000",
+                    "total_value": 1152439.95511851,
+                    "unrealized_profit": 1033077.9431569121,
+                    "unrealized_pnl": 4.252227207940743,
+                    "realized_profit": -2140.30266384445,
+                    "pnl": 0,
+                    "pnl_7d": 0,
+                    "pnl_30d": -0.9105346140748958,
+                    "realized_profit_7d": 0,
+                    "realized_profit_30d": -2140.30266384445,
+                    "winrate": null,
+                    "all_pnl": 6.055013625879529,
+                    "total_profit": 1762506.904914623,
+                    "total_profit_pnl": 7.349019409048273,
+                    "buy_30d": 14,
+                    "sell_30d": 1,
+                    "buy_7d": 1,
+                    "sell_7d": 0,
+                    "buy": 1,
+                    "sell": 0,
+                    "history_bought_cost": 2880.45,
+                    "token_avg_cost": 2880.45,
+                    "token_sold_avg_profit": 0,
+                    "token_num": 1,
+                    "profit_num": 0,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 0,
+                    "pnl_lt_2x_num": 1,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735507078,
+                    "tags": [],
+                    "tag_rank": {},
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735507078,
+                    "refresh_requested_at": null,
+                    "address": "ABUqmjGYiZd4mFxVa2ZV4zZUUbB7a7U7EvoPkw4YHvC6"
+                },
+                "title": "ABUqm...vC6 30D Realized Profit -$2,140.3(--)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "ABUqm...vC6 30D Realized Profit -$2,140.3(--)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "ABUqm...vC6 30D Realized Profit -$2,140.3(--)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/1.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/1.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/1.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "ABUqmjGYiZd4mFxVa2ZV4zZUUbB7a7U7EvoPkw4YHvC6"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "4XTbg7KcgrfbU1XqyXw3tAXXTxiVkpJMCHpPLMmBJBPW": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "500.24715963600000000000",
+                    "sol_balance": "500.24715963600000000000",
+                    "trx_balance": "500.24715963600000000000",
+                    "balance": "500.24715963600000000000",
+                    "total_value": 4540721.594763556,
+                    "unrealized_profit": -31665.258688353388,
+                    "unrealized_pnl": -0.013155608262598475,
+                    "realized_profit": 119501.55763415231,
+                    "pnl": 0,
+                    "pnl_7d": 0,
+                    "pnl_30d": 0.5303172584643921,
+                    "realized_profit_7d": 0,
+                    "realized_profit_30d": 119501.55763415231,
+                    "winrate": null,
+                    "all_pnl": 1.4360257465054072,
+                    "total_profit": 2828219.8817121927,
+                    "total_profit_pnl": 1.2634192533871629,
+                    "buy_30d": 4,
+                    "sell_30d": 38,
+                    "buy_7d": 0,
+                    "sell_7d": 0,
+                    "buy": 0,
+                    "sell": 0,
+                    "history_bought_cost": 0,
+                    "token_avg_cost": null,
+                    "token_sold_avg_profit": null,
+                    "token_num": 0,
+                    "profit_num": 0,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 0,
+                    "pnl_lt_2x_num": 0,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1733353630,
+                    "tags": [],
+                    "tag_rank": {},
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735217512,
+                    "refresh_requested_at": null,
+                    "address": "4XTbg7KcgrfbU1XqyXw3tAXXTxiVkpJMCHpPLMmBJBPW"
+                },
+                "title": "4XTbg...BPW 30D Realized Profit $119.5K(--)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "4XTbg...BPW 30D Realized Profit $119.5K(--)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "4XTbg...BPW 30D Realized Profit $119.5K(--)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/10.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/10.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/10.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "4XTbg7KcgrfbU1XqyXw3tAXXTxiVkpJMCHpPLMmBJBPW"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "429JrgvfDUNrp42PFkApqahXcNA4MG6fSxA9UMLM7CGR": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "129.37124797300000000000",
+                    "sol_balance": "129.37124797300000000000",
+                    "trx_balance": "129.37124797300000000000",
+                    "balance": "129.37124797300000000000",
+                    "total_value": 179879.90412110166,
+                    "unrealized_profit": -1595283.8143572714,
+                    "unrealized_pnl": -0.5566581039552484,
+                    "realized_profit": 48483.05844721645,
+                    "pnl": 0.4230246204632342,
+                    "pnl_7d": 0.4230246204632342,
+                    "pnl_30d": 0.20633166789213428,
+                    "realized_profit_7d": 31826.15917883948,
+                    "realized_profit_30d": 48483.05844721645,
+                    "winrate": 0.5,
+                    "all_pnl": 0.6928884901480546,
+                    "total_profit": -853121.5802729919,
+                    "total_profit_pnl": -0.29973242480443013,
+                    "buy_30d": 50,
+                    "sell_30d": 21,
+                    "buy_7d": 14,
+                    "sell_7d": 7,
+                    "buy": 14,
+                    "sell": 7,
+                    "history_bought_cost": 138961.42124769857,
+                    "token_avg_cost": 10689.340095976813,
+                    "token_sold_avg_profit": 2448.16609067996,
+                    "token_num": 13,
+                    "profit_num": 2,
+                    "pnl_lt_minus_dot5_num": 1,
+                    "pnl_minus_dot5_0x_num": 3,
+                    "pnl_lt_2x_num": 9,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735598797,
+                    "tags": [
+                        "trojan"
+                    ],
+                    "tag_rank": {
+                        "trojan": null
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735598797,
+                    "refresh_requested_at": null,
+                    "address": "429JrgvfDUNrp42PFkApqahXcNA4MG6fSxA9UMLM7CGR"
+                },
+                "title": "429Jr...CGR 30D Realized Profit $48.5K(0.42X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "429Jr...CGR 30D Realized Profit $48.5K(0.42X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "429Jr...CGR 30D Realized Profit $48.5K(0.42X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/51.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/51.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/51.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "429JrgvfDUNrp42PFkApqahXcNA4MG6fSxA9UMLM7CGR"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "CNudZYFgpbT26fidsiNrWfHeGTBMMeVWqruZXsEkcUPc": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "3405.57828408000000000000",
+                    "sol_balance": "3405.57828408000000000000",
+                    "trx_balance": "3405.57828408000000000000",
+                    "balance": "3405.57828408000000000000",
+                    "total_value": 1133448.075022975,
+                    "unrealized_profit": -616105.0261398604,
+                    "unrealized_pnl": -0.3560737700415056,
+                    "realized_profit": 948148.3644197553,
+                    "pnl": 6.7881110664566,
+                    "pnl_7d": 6.7881110664566,
+                    "pnl_30d": 10.025484200592581,
+                    "realized_profit_7d": 145165.58814295597,
+                    "realized_profit_30d": 948148.3644197553,
+                    "winrate": 1,
+                    "all_pnl": 3.6718621333441384,
+                    "total_profit": 1757324.8953362154,
+                    "total_profit_pnl": 1.0126794488448383,
+                    "buy_30d": 32,
+                    "sell_30d": 159,
+                    "buy_7d": 9,
+                    "sell_7d": 36,
+                    "buy": 9,
+                    "sell": 36,
+                    "history_bought_cost": 159704.6725,
+                    "token_avg_cost": 9394.3925,
+                    "token_sold_avg_profit": 8539.152243703293,
+                    "token_num": 17,
+                    "profit_num": 14,
+                    "pnl_lt_minus_dot5_num": 0,
+                    "pnl_minus_dot5_0x_num": 0,
+                    "pnl_lt_2x_num": 11,
+                    "pnl_2x_5x_num": 3,
+                    "pnl_gt_5x_num": 3,
+                    "last_active_timestamp": 1735487228,
+                    "tags": [
+                        "trojan"
+                    ],
+                    "tag_rank": {
+                        "trojan": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735558850,
+                    "refresh_requested_at": null,
+                    "address": "CNudZYFgpbT26fidsiNrWfHeGTBMMeVWqruZXsEkcUPc"
+                },
+                "title": "CNudZ...UPc 30D Realized Profit $948.1K(6.79X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "CNudZ...UPc 30D Realized Profit $948.1K(6.79X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "CNudZ...UPc 30D Realized Profit $948.1K(6.79X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/91.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/91.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/91.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "CNudZYFgpbT26fidsiNrWfHeGTBMMeVWqruZXsEkcUPc"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "3JPYL9xEPFjefV3tccrUwhLzME1mMq2dQSDeDebgzQi6": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "143.73302287100000000000",
+                    "sol_balance": "143.73302287100000000000",
+                    "trx_balance": "143.73302287100000000000",
+                    "balance": "143.73302287100000000000",
+                    "total_value": 121709.67639870773,
+                    "unrealized_profit": 56412.87336335359,
+                    "unrealized_pnl": 0.007046591998109855,
+                    "realized_profit": 116238.78967479602,
+                    "pnl": 0.2664154377708848,
+                    "pnl_7d": 0.2664154377708848,
+                    "pnl_30d": 0.08984273720920925,
+                    "realized_profit_7d": 57899.705051938756,
+                    "realized_profit_30d": 116238.78967479602,
+                    "winrate": 0.15384615384615385,
+                    "all_pnl": 0.2590211424186631,
+                    "total_profit": 1646473.7524064358,
+                    "total_profit_pnl": 0.26538791380308774,
+                    "buy_30d": 543,
+                    "sell_30d": 511,
+                    "buy_7d": 107,
+                    "sell_7d": 86,
+                    "buy": 107,
+                    "sell": 86,
+                    "history_bought_cost": 526686.1414455924,
+                    "token_avg_cost": 30981.53773209367,
+                    "token_sold_avg_profit": 3405.8650030552208,
+                    "token_num": 17,
+                    "profit_num": 2,
+                    "pnl_lt_minus_dot5_num": 2,
+                    "pnl_minus_dot5_0x_num": 11,
+                    "pnl_lt_2x_num": 3,
+                    "pnl_2x_5x_num": 1,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1735606164,
+                    "tags": [
+                        "photon"
+                    ],
+                    "tag_rank": {
+                        "photon": 1
+                    },
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1735606164,
+                    "refresh_requested_at": null,
+                    "address": "3JPYL9xEPFjefV3tccrUwhLzME1mMq2dQSDeDebgzQi6"
+                },
+                "title": "3JPYL...Qi6 30D Realized Profit $116.2K(0.27X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "3JPYL...Qi6 30D Realized Profit $116.2K(0.27X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "3JPYL...Qi6 30D Realized Profit $116.2K(0.27X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/32.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/32.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/32.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "3JPYL9xEPFjefV3tccrUwhLzME1mMq2dQSDeDebgzQi6"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    },
+    "Eswaek4iZKHaVuS2GyQ96DScmfcf9eHLxdVNNyHDtoFk": {
+        "props": {
+            "pageProps": {
+                "addressInfo": {
+                    "twitter_bind": false,
+                    "twitter_fans_num": 0,
+                    "twitter_username": null,
+                    "twitter_name": null,
+                    "ens": null,
+                    "avatar": null,
+                    "name": null,
+                    "eth_balance": "0.80005562600000000000",
+                    "sol_balance": "0.80005562600000000000",
+                    "trx_balance": "0.80005562600000000000",
+                    "balance": "0.80005562600000000000",
+                    "total_value": 506181.10881129646,
+                    "unrealized_profit": 144177.1491009022,
+                    "unrealized_pnl": 0.018910516680921,
+                    "realized_profit": -287623.7029206963,
+                    "pnl": -0.22600231853120142,
+                    "pnl_7d": -0.22600231853120142,
+                    "pnl_30d": -0.05087553828769693,
+                    "realized_profit_7d": -114309.98702913662,
+                    "realized_profit_30d": -287623.7029206963,
+                    "winrate": 0.46153846153846156,
+                    "all_pnl": -0.06823264794296727,
+                    "total_profit": -303126.8762765985,
+                    "total_profit_pnl": -0.04462925231871108,
+                    "buy_30d": 572,
+                    "sell_30d": 534,
+                    "buy_7d": 120,
+                    "sell_7d": 98,
+                    "buy": 120,
+                    "sell": 98,
+                    "history_bought_cost": 5718.55634034037,
+                    "token_avg_cost": 5718.55634034037,
+                    "token_sold_avg_profit": -114309.98702913662,
+                    "token_num": 1,
+                    "profit_num": 6,
+                    "pnl_lt_minus_dot5_num": 1,
+                    "pnl_minus_dot5_0x_num": 0,
+                    "pnl_lt_2x_num": 0,
+                    "pnl_2x_5x_num": 0,
+                    "pnl_gt_5x_num": 0,
+                    "last_active_timestamp": 1734987546,
+                    "tags": [],
+                    "tag_rank": {},
+                    "followers_count": 0,
+                    "is_contract": false,
+                    "updated_at": 1734987546,
+                    "refresh_requested_at": null,
+                    "address": "Eswaek4iZKHaVuS2GyQ96DScmfcf9eHLxdVNNyHDtoFk"
+                },
+                "title": "Eswae...oFk 30D Realized Profit -$287.6K(-0.23X)",
+                "meta": [
+                    {
+                        "name": "twitter:title",
+                        "content": "Eswae...oFk 30D Realized Profit -$287.6K(-0.23X)"
+                    },
+                    {
+                        "name": "og:title",
+                        "content": "Eswae...oFk 30D Realized Profit -$287.6K(-0.23X)"
+                    },
+                    {
+                        "name": "image",
+                        "content": "https://gmgn.ai/static/avator_new/91.png"
+                    },
+                    {
+                        "name": "twitter:image",
+                        "content": "https://gmgn.ai/static/avator_new/91.png"
+                    },
+                    {
+                        "name": "og:image",
+                        "content": "https://gmgn.ai/static/avator_new/91.png"
+                    }
+                ],
+                "addressBg": null
+            },
+            "__N_SSP": true
+        },
+        "page": "/[chain]/address/[address]",
+        "query": {
+            "chain": "sol",
+            "address": "Eswaek4iZKHaVuS2GyQ96DScmfcf9eHLxdVNNyHDtoFk"
+        },
+        "buildId": "heiiArteZqpH8hGQFvbST",
+        "isFallback": false,
+        "gssp": true,
+        "scriptLoader": []
+    }
+}
