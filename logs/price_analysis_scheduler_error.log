@@ -1,0 +1,68 @@
+2025-01-22 17:57:50,457 - telegram_price_alert - INFO - 正在初始化Telegram机器人...
+2025-01-22 17:57:50,457 - telegram_price_alert - INFO - 已加载 1 个chat_id
+2025-01-22 17:57:50,457 - telegram_price_alert - INFO - 已加载 1 个已保存的chat_id
+2025-01-22 17:57:50,560 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:57:51,412 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/A8nPhpCJqtqHdqUk35Uj9Hy2YsGXFkCZGuNwvkD3k7VC/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:57:51,448 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:57:52,469 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/zEH8WQrn1vNCtuyeQzW7QzhLHzBPAANncgYJeHT5ysL/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:57:52,477 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:57:53,332 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/J6nJRRM9pzsRTU3V3yVWZfN3Z84xSisUM1DAa4DMQ7K9/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:57:53,343 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:57:54,166 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/4oFm8iFVLEz4L9QSkWL7sj2jTr88f63RwDXsWXaoTgaU/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:57:54,173 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:57:55,025 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/DYbqJqN9CBBvJYSZZupM65fo8evpQASb8LQMyQJExLD5/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:57:55,030 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:57:56,059 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:57:56,109 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:57:56,927 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/iJuiniVZc7rHYKcvEy9Dz5arHjjmrbfYLdY4etGfQXr/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:57:56,936 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:57:57,923 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/Y8YyWu9gyCYSomE99JkDvsfR4eHNEeQpWtR8quGpBwX/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:57:57,972 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:57:58,813 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/78sBWyimVhLumzZg1bdMD6ogGig8QpmgYZqCXNyMxx4z/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:57:58,836 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:57:59,654 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/AS5MV3ear4NZPMWXbCsEz3AdbCaXEnq4ChdaWsvLgkcM/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:57:59,660 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:00,469 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/H8EgeAr77ddvHCjp4Te3ydUk53UxixjvtHYXMGn78bA/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:00,478 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:01,378 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/J3b6dvheS2Y1cbMtVz5TCWXNegSjJDbUKxdUVDPoqmS7/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:01,409 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:02,235 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/7ESTvPaxJGbfGTZgHtmKEfJxQYjNsKfyTaKK23CZnrLF/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:02,277 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:03,147 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/CS94dE2znqTYxcFtfdfpsEjkphBdsVZeVKhLoykMX7Ge/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:03,161 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:03,999 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/FyDF3vKQFbcvNTsBi7L7LremrFPmXKbQqgAgnPg1hXXd/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:04,031 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:04,930 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/A6jBmV67sTtHLHd7uv87VjK8BXjYH515ecWL26HkXUjf/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:04,997 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:06,023 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/AAoREr9vexyGrinK6Z2GBcq5TKrNkZQXzkDpDDeXVaMk/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:06,044 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:06,900 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/3d7PRDYq3CvRxFBoXrYeKr3DYYco2AnYupv9D9bAUoyH/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:06,906 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:09,523 - telegram_price_alert - INFO - 正在初始化Telegram机器人...
+2025-01-22 17:58:09,523 - telegram_price_alert - INFO - 已加载 1 个chat_id
+2025-01-22 17:58:09,523 - telegram_price_alert - INFO - 已加载 1 个已保存的chat_id
+2025-01-22 17:58:09,625 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:10,473 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/A8nPhpCJqtqHdqUk35Uj9Hy2YsGXFkCZGuNwvkD3k7VC/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:10,508 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:11,203 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/zEH8WQrn1vNCtuyeQzW7QzhLHzBPAANncgYJeHT5ysL/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:11,209 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:11,879 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/J6nJRRM9pzsRTU3V3yVWZfN3Z84xSisUM1DAa4DMQ7K9/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:11,898 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:12,577 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/4oFm8iFVLEz4L9QSkWL7sj2jTr88f63RwDXsWXaoTgaU/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:12,582 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:13,255 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/DYbqJqN9CBBvJYSZZupM65fo8evpQASb8LQMyQJExLD5/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:13,259 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:13,938 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/Bzc9NZfMqkXR6fz1DBph7BDf9BroyEf6pnzESP7v5iiw/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:13,956 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:14,649 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/iJuiniVZc7rHYKcvEy9Dz5arHjjmrbfYLdY4etGfQXr/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:14,662 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:15,368 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/Y8YyWu9gyCYSomE99JkDvsfR4eHNEeQpWtR8quGpBwX/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:15,387 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:16,397 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/78sBWyimVhLumzZg1bdMD6ogGig8QpmgYZqCXNyMxx4z/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:16,410 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:17,087 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/AS5MV3ear4NZPMWXbCsEz3AdbCaXEnq4ChdaWsvLgkcM/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:17,091 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:17,794 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/H8EgeAr77ddvHCjp4Te3ydUk53UxixjvtHYXMGn78bA/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:17,802 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
+2025-01-22 17:58:18,477 - urllib3.connectionpool - DEBUG - https://pro-api.coingecko.com:443 "GET /api/v3/onchain/networks/solana/pools/J3b6dvheS2Y1cbMtVz5TCWXNegSjJDbUKxdUVDPoqmS7/ohlcv/minute?aggregate=15&limit=10 HTTP/1.1" 200 None
+2025-01-22 17:58:18,488 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): pro-api.coingecko.com:443
